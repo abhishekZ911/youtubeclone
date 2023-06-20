@@ -4,8 +4,6 @@ const useFetch = (url) => {
 
     const [isPending, setIsPending] = useState(true);
     const [content, setContent] = useState();
-    const [list, setList] = useState();
-    let preList;
 
         useEffect(() => {
 
@@ -26,9 +24,8 @@ const useFetch = (url) => {
 
         }, [url]);
 
-        console.log(content)
         
-            return {isPending, content};
+        return {isPending, content};
     
         
 }
