@@ -1,3 +1,16 @@
+This is Youtube clone app that has been build with React.js. 
+Youtube-clone has been given as assessment by the recruiter of the startup Gro.care.
+It gets it's data from the api given by the recruiter grom Gro.care.
+The web-app is build with libraries like react-router-dom for routing, React Icons for Icons used in the app. The app also features Pagination feature.
+
+
+**The link to the deployed build is** : https://youtube-clone-abhishekkeshri.netlify.app/
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
